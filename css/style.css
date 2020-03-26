@@ -1,0 +1,44 @@
+body{
+	background-image : url(../images/cherry.jpg);
+	background-repeat: no-repeat;
+	background-size : cover;
+
+}
+h1{
+    margin:100px 100px 100px 100px;
+    padding:100px 120px;
+	border:20px;
+	border-style:inset;
+	background-color:#e17055;
+	border-bottom-style: dotted ;
+	border-color: #b2bec3;
+
+}
+
+ h2{
+    margin:80px 80px 50px 50px;
+    padding:100px 120px ;
+	background-color: #fd79a8;
+	border-radius: 20px 20px;
+	border: 15px double;
+ }
+ h3{
+ 	margin:70px 70px 50px 50px;
+    padding:100px 120px;
+    border:10px;
+    color:#ff7675;
+    border-color: #74b9ff;
+    border-top-style:groove;
+    border-bottom-style: ridge;
+    border-right-style: outset;
+    border-left-style: dashed;
+    background-color: #6c5ce7;
+    border-bottom-color: #55efc4;
+    
+ }	
+
+
+ p{
+   color: #d63031; 
+ }
+ /* This is a single line comment */
